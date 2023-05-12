@@ -1,0 +1,22 @@
+.head {
+    margin-top: 200px !important;
+    margin-left: 100px !important;
+}
+.form_Control {
+    width: 300px !important;
+    margin-bottom: 20px !important;
+}
+.hari{
+    background-color: aqua !important;
+}
+.jumbotron {
+    margin-top: 50px !important;
+    height:50% !important;
+    width: 80% !important;
+    margin-left: 10% !important;
+   
+}
+.btn{
+    background-color: dodgerblue !important;
+    color:white;
+}
